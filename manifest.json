@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "packageUrl": "https://raw.githubusercontent.com/CodisConnect/SportclubKassa-Updates/main/releases/0.5.0/SportclubKassa-0.5.0.zip",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "version": "0.5.1",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.1/SportclubKassa-0.5.1.zip",
+  "sha256": "11C8B10F65007D22A3289FDFB7002F8F9F81E7DA54E79D59D0F952B11D7AA1B5",
   "mandatory": false,
-  "releaseNotes": "Baseline voor de update-infrastructuur. Er is momenteel geen nieuwere versie beschikbaar."
+  "releaseNotes": "Clubnaam wordt bovenaan in de titelbalk van de kassaschermen weergegeven."
 }
