@@ -1,7 +1,7 @@
 {
-  "version": "0.5.1",
-  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.1/SportclubKassa-0.5.1.zip",
-  "sha256": "C3A31E22C3FDD3C3CF3A28F9247F354B2B71A5E6DCD49734FACE99A39BE29E6B",
+  "version": "0.5.2",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.2/SportclubKassa-0.5.2.zip",
+  "sha256": "1FEF93CBBF34627FCA07102F4FA2773901A88F681DE06E935CBCEFBF4DBB1CDB",
   "mandatory": false,
-  "releaseNotes": "Clubnaam wordt bovenaan in de titelbalk van de kassaschermen weergegeven. De updater vraagt voortaan automatisch administratorrechten om de applicatiebestanden veilig te vervangen."
+  "releaseNotes": "Het versienummer wordt nu zichtbaar in de titelbalk weergegeven. Deze release test de nieuwe remote updater met automatische UAC-elevatie en veilige vervanging van applicatiebestanden."
 }
