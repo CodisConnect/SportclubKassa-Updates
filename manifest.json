@@ -1,7 +1,7 @@
 {
   "version": "0.5.2",
   "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.2/SportclubKassa-0.5.2.zip",
-  "sha256": "1FEF93CBBF34627FCA07102F4FA2773901A88F681DE06E935CBCEFBF4DBB1CDB",
+  "sha256": "D7C9AA380BFD93D7092EFEFC6835123744F30287BD111B2DCB2E860D37C8260C",
   "mandatory": false,
-  "releaseNotes": "Het versienummer wordt nu zichtbaar in de titelbalk weergegeven. Deze release test de nieuwe remote updater met automatische UAC-elevatie en veilige vervanging van applicatiebestanden."
+  "releaseNotes": "Het versienummer wordt nu zichtbaar in de titelbalk weergegeven. De updater gebruikt nu een Unicode-veilige PowerShell-flow met UAC, rollback en logging."
 }
