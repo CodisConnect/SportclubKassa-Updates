@@ -1,7 +1,7 @@
 {
-  "version": "0.5.2",
-  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.2/SportclubKassa-0.5.2.zip",
-  "sha256": "D7C9AA380BFD93D7092EFEFC6835123744F30287BD111B2DCB2E860D37C8260C",
+  "version": "0.5.3",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.3/SportclubKassa-0.5.3.zip",
+  "sha256": "C82BB1F6133A959738C1BCF0F612BB7B79B720D66EB8B5E5186127D19EB00BB2",
   "mandatory": false,
-  "releaseNotes": "Het versienummer wordt nu zichtbaar in de titelbalk weergegeven. De updater gebruikt nu een Unicode-veilige PowerShell-flow met UAC, rollback en logging."
+  "releaseNotes": "Technische validatierelease voor de Unicode-veilige PowerShell-updater met UAC, rollback, logging en automatische herstart."
 }
