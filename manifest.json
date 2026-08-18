@@ -1,7 +1,7 @@
 {
-  "version": "0.5.3",
-  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.3/SportclubKassa-0.5.3.zip",
-  "sha256": "C82BB1F6133A959738C1BCF0F612BB7B79B720D66EB8B5E5186127D19EB00BB2",
+  "version": "0.5.4",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.4/SportclubKassa-0.5.4.zip",
+  "sha256": "021431CB7E14AEAE97600148D4146EE19596CE266A1EBB071ECEC5A3B30ADDCE",
   "mandatory": false,
-  "releaseNotes": "Technische validatierelease voor de Unicode-veilige PowerShell-updater met UAC, rollback, logging en automatische herstart."
+  "releaseNotes": "Nieuwe admin-aanmeldflow met functiemenu vóór kassastart, standaard productie manifest-URL met optionele override, uitgebreide update/supportdiagnostiek en lokale documentatie in de POS-installatiemap."
 }
