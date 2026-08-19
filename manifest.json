@@ -1,7 +1,7 @@
 {
-  "version": "0.5.4",
-  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.4/SportclubKassa-0.5.4.zip",
-  "sha256": "021431CB7E14AEAE97600148D4146EE19596CE266A1EBB071ECEC5A3B30ADDCE",
+  "version": "0.5.5",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.5/SportclubKassa-0.5.5.zip",
+  "sha256": "EA66EC4BD174C29EFE1646C0C9164469BEC41F5901BE80A5E191CC2FC4B01145",
   "mandatory": false,
-  "releaseNotes": "Nieuwe admin-aanmeldflow met functiemenu vóór kassastart, standaard productie manifest-URL met optionele override, uitgebreide update/supportdiagnostiek en lokale documentatie in de POS-installatiemap."
+  "releaseNotes": "Verbeterde touchscreenbediening met Sluiten-knoppen, direct afsluiten van de kassa na invoer van het getelde bedrag, persistente feedbacklink en uitgebreid voorraadbeheer met ondersteuning voor stuk- en volumeproducten inclusief voorraadcorrecties in volle verpakkingen."
 }
