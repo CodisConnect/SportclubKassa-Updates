@@ -1,7 +1,7 @@
 {
-  "version": "0.5.5",
-  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.5/SportclubKassa-0.5.5.zip",
-  "sha256": "EA66EC4BD174C29EFE1646C0C9164469BEC41F5901BE80A5E191CC2FC4B01145",
+  "version": "0.5.6",
+  "packageUrl": "https://github.com/CodisConnect/SportclubKassa-Updates/releases/download/v0.5.6/SportclubKassa-0.5.6.zip",
+  "sha256": "C31280A507FF9CC6C163A709AE870D60DC0D25F6AC9C5BAE1556F42F708D4BDF",
   "mandatory": false,
-  "releaseNotes": "Verbeterde touchscreenbediening met Sluiten-knoppen, direct afsluiten van de kassa na invoer van het getelde bedrag, persistente feedbacklink en uitgebreid voorraadbeheer met ondersteuning voor stuk- en volumeproducten inclusief voorraadcorrecties in volle verpakkingen."
+  "releaseNotes": "Touchscreenvriendelijke numpad-invoer toegevoegd voor kasstart, kasafsluiting en afrekenen (contant en drankbonnen), verplichte wijziging van een tijdelijke adminpincode bij de volgende admin-aanmelding, en opgeschoonde sluitknoplogica zodat dubbele of ongelegen Sluiten-knoppen verdwijnen."
 }
